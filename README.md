@@ -28,7 +28,7 @@ For pulling down any changes, and committing then pushing up your new changes:
 ```bash
 git pull
 
-git add "your new files" or for all: git add .
+git add your/new/files or for all: git add .
 
 git commit -a -m "your new message"
 
